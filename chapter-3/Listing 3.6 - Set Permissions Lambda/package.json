@@ -10,6 +10,6 @@
   "dependencies": {
     "aws-sdk": "latest"
   },
-  "author": "Peter Sbarski",
+  "author": "kmubigdatalab",
   "license": "BSD-2-Clause"
 }
