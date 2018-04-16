@@ -9,7 +9,7 @@
 var AWS = require('aws-sdk');
 
 var elasticTranscoder = new AWS.ElasticTranscoder({
-    region: 'us-east-1'
+    region: 'us-east-2'
 });
 
 exports.handler = function(event, context, callback){
